@@ -15,6 +15,6 @@ Tabular Methods : [Blog](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Sol
 
 |:page_with_curl: Topics|:pencil2: Blog|:key: Environments|
 | ------------- | :-------------: |------------- |
-|:wind_chime: Dynamic Programming|[DP](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#dynamic-programming)||
-|:rice_scene: Monte Carlo|[MC](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#monte-carlo)||
-|:high_brightness: TD Learning|[TD](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#td-learning)||
+|:wind_chime: Dynamic Programming|[DP](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#dynamic-programming)| [Grid World](https://colab.research.google.com/github/dudeperf3ct/RL_Notebooks/blob/master/DP/Dynamic_Programming_Grid_World.ipynb) |
+|:rice_scene: Monte Carlo|[MC](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#monte-carlo)|[Blackjack](https://colab.research.google.com/github/dudeperf3ct/RL_Notebooks/blob/master/MC/Monte_Carlo_Blackjack.ipynb) |
+|:high_brightness: TD Learning|[TD](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#td-learning)| [Cliff Walking]()|
