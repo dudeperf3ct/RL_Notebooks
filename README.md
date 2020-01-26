@@ -1,5 +1,3 @@
-# Reinforcement Learning Notebooks
-
 # Blog
 
 [![Colab](https://img.shields.io/badge/launch-Colab-orange.svg)](https://github.com/dudeperf3ct/RL_notebooks/master)
