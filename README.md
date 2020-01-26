@@ -14,7 +14,7 @@ Tabular Methods : [Blog](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Sol
 # Tabular Methods
 
 |:page_with_curl: Topics|:pencil2: Blog|:key: Environments|
-| ------------- | ------------- |------------- |
+| ------------- | :-------------: |------------- |
 |:wind_chime: Dynamic Programming|[DP](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#dynamic-programming)||
 |:rice_scene: Monte Carlo|[MC](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#monte-carlo)||
 |:high_brightness: TD Learning|[TD](https://dudeperf3ct.github.io/rl/2019/12/29/Tabular-Solution/#td-learning)||
