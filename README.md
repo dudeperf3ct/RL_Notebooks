@@ -1,4 +1,4 @@
-# Reinforcement-Learning
+# Reinforcement Learning Notebooks
 
 # Blog
 
